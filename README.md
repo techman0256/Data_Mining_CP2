@@ -53,7 +53,7 @@ What sets this system apart is its integration with AWS (Amazon Web Services) da
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/srikarpadaliya/Course_management_system.git
+   [git clone https://github.com/srikarpadaliya/Course_management_system.git](https://github.com/Aksharpanchani/IT_314_Software_engineering_Project_G25/tree/main/HMS)
    ```
 
 2. **Navigate to the Project Directory**
